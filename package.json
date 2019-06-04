@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "bootstrap project",
   "main": "index.js",
-  "homepage": "https://github.com/chsaqib/bootstrap-project",
+  "homepage": "https://chsaqib.github.io/bootstrap-project",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "deploy": "gh-pages -d dist"
